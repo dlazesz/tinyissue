@@ -1,0 +1,4 @@
+default user: admin@localhost
+password: admin
+
+DELETE THIS USER AFTER SETUP!

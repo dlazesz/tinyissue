@@ -41,6 +41,10 @@ return array(
 	| listed in the array of connections below.
 	|
 	*/
+	'sqlite' => array(
+     'driver'   => 'sqlite',
+     'database' => 'tinyissue',
+    ),
 
 	/*
 	|--------------------------------------------------------------------------
